@@ -2,3 +2,5 @@ HPC/*.exe
 HPC/*.exp
 HPC/*.lib
 HPC/.vscode
+
+colab_practice/sample_data/
