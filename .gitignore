@@ -1,0 +1,4 @@
+HPC/*.exe
+HPC/*.exp
+HPC/*.lib
+HPC/.vscode
