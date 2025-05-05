@@ -4,3 +4,5 @@ HPC/*.lib
 HPC/.vscode
 
 colab_practice/sample_data/
+
+.vscode
